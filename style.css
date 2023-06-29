@@ -1,0 +1,198 @@
+*{
+	margin: 0px;
+}
+.photo_logo{
+	position: relative;
+	height: 500px;
+
+}
+.photo_logo img{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	opacity: 0.9;
+}
+.photo_logo_text{
+	position: absolute;
+	left: 200px;
+	top: 50px;
+	
+}
+.logo_text{
+	margin-left: 100px;
+	font-size: 50px;
+	color: white;
+}
+.logo_text_1{
+	margin-left: 100px;
+	color: white;
+	margin-top: 30PX;
+}
+
+.logo_text_2{
+	width: 150px;
+	height: 30px;
+	margin-left: 100px;
+	margin-top: 30px;
+	/*padding: 10px 30px;*/
+	background-color: #FBC013;
+	color: white;
+	border: unset;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+}
+.card_text{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 35px;
+	color: #274877 ;
+}
+.selmm{
+	font-size: 30px;
+	color: #1FABBC;
+
+}
+.rewards{
+	font-size: 25px;
+	color: #274877;
+	margin-top: 15px;
+}
+.rew_2{
+	margin-left: 10px;
+}
+.rew_1{
+	width: 30px;
+	color: #1FABBC ;
+	border: 3px solid;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+.features_max{
+	text-align: center;
+}
+.logo_features_max{
+	display: flex;
+	justify-content: center;
+}
+.features_max_min{
+	display: flex;
+	justify-content: space-between;
+
+	width: 1000px;
+	margin-top: 50px;
+}
+.text_1{
+	margin-top: 30px;
+}
+.text_2{
+	margin-top: 10px;
+}
+.xxx{
+	height: 600px;
+	background-color: #BBBBBB;
+}
+.business{
+	padding-top: 50px;
+	text-align: center;
+	font-size: 35px;
+	color: #274877 ;
+}
+
+nav ul{
+	display: flex;
+	justify-content: space-around;
+	width: 1020px;
+	margin-top: 20px;
+	margin-left: 100px;
+	padding-left: 100px;
+	
+
+}
+nav ul li{
+	list-style: none;
+	
+	padding: 20px 44px;
+}
+nav ul li a{
+	text-decoration: none;
+	color: #274877 ;
+	text-align: center;
+
+}
+li:hover{
+	background-color: #BBBBBB ;
+}
+li:hover a{
+	color: #1FABBC ;
+}
+.photo_banking{
+	width: 1100px;
+	height: 400px;
+	background-color: #BBBBBB ;
+	margin-left: 62px;
+	display: flex;
+ 
+}
+.photo_banking img{
+	width: 500px;
+	margin-top: 40px;
+	margin-left: 50px;
+
+}
+.photo_banking_min{
+	margin-left: 100px;
+	padding-left: 40px;
+
+}
+.transforming{
+	font-size: 28px;
+	color: #274877 ;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+.lorem_1{
+	margin-left: 20px;
+	margin-top: 24px;
+}
+.more_logo{
+	padding: 10px 30px;
+	margin-left: 18px;
+	margin-top: 30px;
+	color: white;
+	background-color: #1FABBC ;
+	border: unset;
+}
+.choose_max_div{
+	margin-top: 100px;
+	padding-top: 70px;
+	display: flex;
+	justify-content: center;
+	background-color: #BBBBBB ;
+	height: 300px;
+
+}
+.choose_logo{
+	display: flex;
+	justify-content: space-around;
+	width: 1000px;
+	
+}
+	
+
+.perfect_card{
+	font-size: 50px;
+	color: #274877 ;
+}
+.lorem_text{
+	margin-top: 30px;
+}
+.img_text{
+	height: 200px;
+	width: 200px;
+}
+.first_text{
+	margin-top: 20px;
+	color: #274877;
+}
